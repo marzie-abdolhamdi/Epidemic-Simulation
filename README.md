@@ -1,2 +1,4 @@
 # Epidemic-Simulation
-Simulation of Spread of an Epidemic Using Techniques from Statistics and Probability and Differential Equations
+## Simulation of Spread of an Epidemic Using Techniques from Statistics and Probability and Differential Equations
+
+Over the years, various parts of the world have experienced disease outbreaks. Mathematical models are used to describe these outbreaks. I analyze a mathematical model for the spread of an epidemic using techniques from statistics and probability and differential equations to track and test the severity of an epidemic. I focus on COVID-19 and use 2020-2021 data of Iran and world from statistical sites and WHO. I manipulated MATLAB code for simulation and analysis. The results are reviewed to understand the time of the outbreak and to develop an appropriate strategy for vaccination. With this understanding, we can map the disease and raise awareness in the populations that are prone to infection, in an effort to change the outcome and rapid spread of disease.
